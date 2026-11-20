@@ -1,8 +1,4 @@
 namespace OpinionesExtraccion.Data.Models.Db;
-
-/// <summary>
-/// Registro extraído desde la base de datos relacional (reseñas web).
-/// </summary>
 public class WebReviewRecord
 {
     public int IdOpinion { get; set; }

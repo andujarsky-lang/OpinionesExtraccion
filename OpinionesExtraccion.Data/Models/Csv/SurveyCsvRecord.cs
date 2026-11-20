@@ -1,8 +1,4 @@
 namespace OpinionesExtraccion.Data.Models.Csv;
-
-/// <summary>
-/// Registro extraído desde el archivo CSV de encuestas internas.
-/// </summary>
 public class SurveyCsvRecord
 {
     public int IdOpinion { get; set; }
