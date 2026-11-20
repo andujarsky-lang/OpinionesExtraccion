@@ -1,0 +1,17 @@
+# Build artifacts
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# Generated data
+Temp/
+staging/
+logs/
+
+# Secrets
+appsettings.Development.json
+
+# Documentation (entregables fuera del repo)
+docs/

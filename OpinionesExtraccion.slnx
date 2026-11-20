@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="OpinionesExtraccion.Data/OpinionesExtraccion.Data.csproj" />
+  <Project Path="OpinionesExtraccion.Api/OpinionesExtraccion.Api.csproj" />
+  <Project Path="OpinionesExtraccion.Worker/OpinionesExtraccion.Worker.csproj" />
+</Solution>
