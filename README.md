@@ -91,5 +91,5 @@ Editar `OpinionesExtraccion.Worker/appsettings.json`:
 
 ## Repositorio
 
-https://github.com/<tu-usuario>/OpinionesExtraccion.git
+https://github.com/andujarsky-lang/OpinionesExtraccion.git
 ```
